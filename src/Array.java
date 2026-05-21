@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 public class Array {
 public static void main(String[] args) {
@@ -42,4 +43,12 @@ public static void main(String[] args) {
     sc.close();
 }
 
+=======
+public class Array {
+    public static void main(String[] args) {
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+System.out.println(cars[0]);
+    }
+
+>>>>>>> e79f71bf8e0c9199374de0589f6b21da3d789d0d
 }
