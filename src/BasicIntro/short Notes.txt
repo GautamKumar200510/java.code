@@ -1,0 +1,11 @@
+System.out.println()
+
+System   → Predefined class (java.lang.System)
+out      → Static object of PrintStream class
+println()→ Method of PrintStream class
+
+Working:
+System → out → println() → Console Output
+
+print()    → Prints on same line.
+println()  → Prints and moves to next line.

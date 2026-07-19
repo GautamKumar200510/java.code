@@ -1,0 +1,15 @@
+Q1. What is System?
+
+Answer: System is a predefined class in the java.lang package.
+
+Q2. What is out?
+
+Answer: out is a public static object of the PrintStream class used to display output on the console.
+
+Q3. What is println()?
+
+Answer: println() is a method of the PrintStream class that prints data and moves the cursor to the next line.
+
+Q4. Why do we use System.out.println()?
+
+Answer: It is used to display output on the console.
